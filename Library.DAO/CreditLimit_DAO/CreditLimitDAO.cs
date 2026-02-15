@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Library.DAO.SInventory_Entities
+{
+    public class CreditLimitDAO
+    {
+        public int CreditLimitId { get; set; }
+        public int CompanyId { get; set; }
+        public int CustomerMasterId { get; set; }
+        public decimal LimitAmount { get; set; }
+        public int DayLimit { get; set; }
+        public bool IsActive { get; set; }
+        public int EntryBy { get; set; }
+        public DateTime EntryDate { get; set; }
+        public int UpdateBy { get; set; }
+        public DateTime UpdateDate { get; set; }
+        public int ApprovedBy { get; set; }
+        public DateTime ApprovedDate { get; set; }
+        public string ActionStatus { get; set; }
+        public DateTime StartDate { get; set; }
+        public DateTime EndDate { get; set; }
+
+    }
+}

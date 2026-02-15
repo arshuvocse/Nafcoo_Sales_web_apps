@@ -1,0 +1,16 @@
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\obj\Release\Library.DAL.csproj.AssemblyReference.cache
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\obj\Release\Library.DAL.csproj.CoreCompileInputs.cache
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Release\Library.DAL.csproj.AssemblyReference.cache
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Release\Library.DAL.csproj.CoreCompileInputs.cache
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+D:\JEWEL\uniworld\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Tareq\uniworld\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Release\Library.DAL.csprojResolveAssemblyReference.cache
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Release\Library.DAL.csproj.AssemblyReference.cache
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Release\Library.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\UBL_Nafcoo\Library.DAL\obj\Release\Library.DAL.csproj.AssemblyReference.cache
+D:\Projects\UBL_Nafcoo\Library.DAL\obj\Release\Library.DAL.csproj.CoreCompileInputs.cache

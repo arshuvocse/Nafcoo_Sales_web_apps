@@ -1,0 +1,231 @@
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.BLL.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.BLL.pdb
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAL.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Net.Http.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAL.pdb
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Net.Http.xml
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.pdb
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.BLL.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.BLL.pdb
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAL.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAO.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Net.Http.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAL.pdb
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAO.pdb
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\bin\Debug\System.Net.Http.xml
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Library.BLL.dll
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Library.DAL.dll
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Library.DAO.dll
+D:\Tareq\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Tareq\uniworld\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\Tareq\uniworld\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\Tareq\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\Tareq\uniworld\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\Tareq\uniworld\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+D:\Tareq\uniworld\Library.BLL\obj\Debug\Library.BLL.dll
+D:\Tareq\uniworld\Library.BLL\obj\Debug\Library.BLL.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.BLL.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.BLL.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAL.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Net.Http.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAL.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Net.Http.xml
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\obj\Debug\Library.BLL.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\obj\Debug\Library.BLL.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.BLL.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.BLL.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAL.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAO.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Net.Http.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAL.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\Library.DAO.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\bin\Debug\System.Net.Http.xml
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\obj\Debug\Library.BLL.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Library.BLL.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAL.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAO.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.csproj.AssemblyReference.cache
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\obj\Debug\Library.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.BLL\obj\Debug\Library..6B42F545.Up2Date
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\Projects\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.pdb
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.pdb
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.pdb
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.pdb
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.xml
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.dll
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.dll
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.dll
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+D:\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.dll
+D:\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\Projects\UBL_Nafcoo\Library.BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Projects\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.csproj.AssemblyReference.cache
+D:\Projects\UBL_Nafcoo\Library.BLL\obj\Debug\Library.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\UBL_Nafcoo\Library.BLL\obj\Debug\Library..6B42F545.Up2Date
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Library.BLL.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAL.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAO.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Library.BLL.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Library.BLL.pdb
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAL.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAO.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\System.Net.Http.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAL.pdb
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAO.pdb
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\bin\Debug\System.Net.Http.xml
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.pdb
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Library.BLL.dll
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Library.BLL.pdb
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAL.dll
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAO.dll
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\System.Net.Http.dll
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAL.pdb
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\Library.DAO.pdb
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+F:\tools\Nafcoo_Web\Library.BLL\bin\Debug\System.Net.Http.xml
+F:\tools\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.dll
+F:\tools\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.pdb
+F:\tools\Nafcoo_Web\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Library.BLL.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Library.BLL.pdb
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Library.DAL.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Library.DAO.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\System.Web.Http.Common.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\System.Net.Http.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Library.DAL.pdb
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\Library.DAO.pdb
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\System.Web.Http.Common.xml
+F:\tools\Nafcoo_WebApps\Library.BLL\bin\Debug\System.Net.Http.xml
+F:\tools\Nafcoo_WebApps\Library.BLL\obj\Debug\Library.BLL.csprojResolveAssemblyReference.cache
+F:\tools\Nafcoo_WebApps\Library.BLL\obj\Debug\Library.BLL.dll
+F:\tools\Nafcoo_WebApps\Library.BLL\obj\Debug\Library.BLL.pdb

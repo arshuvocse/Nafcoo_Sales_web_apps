@@ -1,0 +1,961 @@
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\MY ERP Solution\ERPSolution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\Solution1208\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\Solution1208\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\Solution1208\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\Solution1208\Solution\Library.DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Project-10\Solution1208\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Project-10\Solution1208\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Project-10\Solution1208\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Project-10\Solution1208\Solution1208\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Project-10\Solution1208\Solution1208\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Project-10\Solution1208\Solution1208\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Project-10\Solution1208\Solution1208\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\Solution0813\Solution0813\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\Solution0813\Solution0813\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\Solution0813\Solution0813\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\Solution0813\Solution0813\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\Solution0813\Solution0813\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\Solution0813\Solution0813\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\Solution0813\Solution0813\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MY ERP Solution\ERPSolution\SolutionNew\SolutionNew\Solution\Library.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Adob Dreamwavwe\1408\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Adob Dreamwavwe\1408\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Adob Dreamwavwe\1408\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Adob Dreamwavwe\1408\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Adob Dreamwavwe\1408\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Adob Dreamwavwe\1408\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Adob Dreamwavwe\1408\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\New Sulution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\New Sulution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\New Sulution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\New Sulution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\New Sulution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\New Sulution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\New Sulution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working folder\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working folder\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working folder\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working folder\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working folder\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working folder\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working folder\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\New Sulution\S\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\New Sulution\S\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\New Sulution\S\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\New Sulution\S\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\New Sulution\S\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\New Sulution\S\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\New Sulution\S\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working folder\0829\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working folder\0829\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working folder\0829\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working folder\0829\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working folder\0829\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working folder\0829\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working folder\0829\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\New Sulution\01.09\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\New Sulution\01.09\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\New Sulution\01.09\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\New Sulution\01.09\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\New Sulution\01.09\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\New Sulution\01.09\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\New Sulution\01.09\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\Sales&Inventory\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\Sales&Inventory\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\Sales&Inventory\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\Sales&Inventory\Sales&Inventory\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\Sales&Inventory\Sales&Inventory\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\Sales&Inventory\Sales&Inventory\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\Sales&Inventory\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working folder\SSI_Sulation\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working folder\SSI_Sulation\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working folder\SSI_Sulation\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working folder\SSI_Sulation\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working folder\SSI_Sulation\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working folder\SSI_Sulation\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working folder\SSI_Sulation\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\SSI\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\SSI\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\SSI\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\Sales&Inventory\SSI\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\Sales&Inventory\SSI\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\Sales&Inventory\SSI\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\SSI\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working File\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\Sales&Inventory\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\MY ERP Solution\salesInvent\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\MY ERP Solution\salesInvent\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\MY ERP Solution\salesInvent\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\MY ERP Solution\salesInvent\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\MY ERP Solution\salesInvent\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\MY ERP Solution\salesInvent\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\MY ERP Solution\salesInvent\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working folder\31102013\31102013\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working folder\31102013\31102013\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working folder\31102013\31102013\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working folder\31102013\31102013\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working folder\31102013\31102013\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working folder\31102013\31102013\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working folder\31102013\31102013\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\SSI1\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\SSI1\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working File\Sales&Inventory\SSI1\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working File\Sales&Inventory\SSI1\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working File\Sales&Inventory\SSI1\Solution\Library.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working File\Sales&Inventory\SSI1\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working File\Sales&Inventory\SSI1\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working folder\SSI_Sulation\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working folder\SSI_Sulation\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working folder\SSI_Sulation\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working folder\SSI_Sulation\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working folder\SSI_Sulation\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working folder\SSI_Sulation\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working folder\SSI_Sulation\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Working folder\Project\S&I\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Working folder\Project\S&I\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Working folder\Project\S&I\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Working folder\Project\S&I\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Working folder\Project\S&I\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Working folder\Project\S&I\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Working folder\Project\S&I\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Project-10\S&I\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Project-10\S&I\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Project-10\S&I\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Project-10\S&I\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Project-10\S&I\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Project-10\S&I\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Project-10\S&I\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SS&I\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\SS&I\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\SS&I\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\SS&I\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\SS&I\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\SS&I\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\SS&I\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Project-10\S&I\SSI-24-07-2017\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Project-10\S&I\SSI-24-07-2017\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Project-10\S&I\SSI-24-07-2017\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Project-10\S&I\SSI-24-07-2017\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Project-10\S&I\SSI-24-07-2017\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Project-10\S&I\SSI-24-07-2017\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Project-10\S&I\SSI-24-07-2017\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CreatrixProjects\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CreatrixProjects\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CreatrixProjects\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CreatrixProjects\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CreatrixProjects\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CreatrixProjects\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CreatrixProjects\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\HRM_Project\ADLSSI\8-2-17\Solution (1)\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\HRM_Project\ADLSSI\8-2-17\Solution (1)\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\HRM_Project\ADLSSI\8-2-17\Solution (1)\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\HRM_Project\ADLSSI\8-2-17\Solution (1)\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\HRM_Project\ADLSSI\8-2-17\Solution (1)\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\HRM_Project\ADLSSI\8-2-17\Solution (1)\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\HRM_Project\ADLSSI\8-2-17\Solution (1)\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CreatrixProjects\Nasa\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CreatrixProjects\Nasa\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CreatrixProjects\Nasa\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CreatrixProjects\Nasa\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CreatrixProjects\Nasa\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CreatrixProjects\Nasa\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CreatrixProjects\Nasa\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CreatrixProjects\ADL\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CreatrixProjects\ADL\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CreatrixProjects\ADL\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CreatrixProjects\ADL\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CreatrixProjects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CreatrixProjects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CreatrixProjects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\ADLADL\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\ADLADL\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\ADLADL\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\ADLADL\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\ADLADL\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\ADLADL\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\ADLADL\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CSTL Projects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CSTL Projects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CSTL Projects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL Projects\ADL\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL Projects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL Projects\ADL\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\solu\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\solu\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\solu\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\solu\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\solu\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\solu\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\solu\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SMC ERP\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\SMC ERP\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\SMC ERP\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SMC ERP\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\SMC ERP\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\SMC ERP\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\SMC ERP\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\SMC Final V-Alfa\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final V-Alfa\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final V-Alfa\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL Projects\SMC Final V-Alfa\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\SMC Final V-Alfa\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL Projects\SMC Final V-Alfa\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final V-Alfa\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CSTL Projects\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CSTL Projects\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CSTL Projects\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CSTL Projects\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CSTL Projects\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CSTL Projects\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final V-Alfa\SMC V-1.0\SMC V-1.0\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CSTL Projects\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CSTL Projects\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL Projects\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL Projects\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final Version\SMC Final Version\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\17  tarik\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\17  tarik\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\CSTL Projects\SMC Final Version\17  tarik\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\CSTL Projects\SMC Final Version\17  tarik\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\CSTL Projects\SMC Final Version\17  tarik\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\CSTL Projects\SMC Final Version\17  tarik\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\CSTL Projects\SMC Final Version\17  tarik\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMC SalesRoll\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMC SalesRoll\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMC SalesRoll\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMC SalesRoll\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMC SalesRoll\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMC SalesRoll\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMC SalesRoll\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Desktop\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Desktop\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Desktop\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Desktop\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Desktop\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Desktop\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMCPharmaDistribution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Project\Project\Project 10\SMC16-2-19\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Project\Project\Project 10\SMC16-2-19\Solution\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Project\Project\Project 10\SMC16-2-19\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Project\Project\Project 10\SMC16-2-19\Solution\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Project\Project\Project 10\SMC16-2-19\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Project\Project\Project 10\SMC16-2-19\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Project\Project\Project 10\SMC16-2-19\Solution\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\New folder\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\New folder\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\New folder\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMCPharmaDistribution\New folder\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMCPharmaDistribution\New folder\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMCPharmaDistribution\New folder\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\New folder\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\CREATRIX Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+F:\CREATRIX Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\CREATRIX Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+F:\CREATRIX Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\CREATRIX Solutions\SMC SalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\CREATRIX Solutions\SMC SalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+F:\CREATRIX Solutions\SMC SalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\CSTL Solutions\SMC SalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\CSTL Solutions\SMC SalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+F:\CSTL Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+F:\CSTL Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\CSTL Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+F:\CSTL Solutions\SMC SalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\CSTL Solutions\SMC SalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\18july\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\18july\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\18july\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMCPharmaDistribution\18july\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMCPharmaDistribution\18july\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMCPharmaDistribution\18july\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\18july\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\final\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\final\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\final\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMCPharmaDistribution\final\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMCPharmaDistribution\final\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMCPharmaDistribution\final\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\final\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMCPharmaDistribution\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMCPharmaDistribution\SMCSalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMCPharmaDistribution\SMCSalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\SMCSalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\CSTL Solutions\SMC\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.dll
+F:\CSTL Solutions\SMC\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\CSTL Solutions\SMC\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.dll
+F:\CSTL Solutions\SMC\SMCSalesRoll\Solution\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\CSTL Solutions\SMC\SMCSalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\CSTL Solutions\SMC\SMCSalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.dll
+F:\CSTL Solutions\SMC\SMCSalesRoll\Solution\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\CSTL Solutions\SMC\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+F:\CSTL Solutions\SMC\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\CSTL Solutions\SMC\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+F:\CSTL Solutions\SMC\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\CSTL Solutions\SMC\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\CSTL Solutions\SMC\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+F:\CSTL Solutions\SMC\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMCPharmaDistribution\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMCPharmaDistribution\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMCPharmaDistribution\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Project\Project\Project 10\Salesroll 16-11-2019\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Project\Project\Project 10\Salesroll 16-11-2019\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Project\Project\Project 10\Salesroll 16-11-2019\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Project\Project\Project 10\Salesroll 16-11-2019\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Project\Project\Project 10\Salesroll 16-11-2019\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Project\Project\Project 10\Salesroll 16-11-2019\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Project\Project\Project 10\Salesroll 16-11-2019\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\Pulak\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\Pulak\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\SMCPharmaDistribution\Pulak\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\SMCPharmaDistribution\Pulak\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\SMCPharmaDistribution\Pulak\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\SMCPharmaDistribution\Pulak\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\SMCPharmaDistribution\Pulak\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Project\Project\Project 10\Pulak18December\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Project\Project\Project 10\Pulak18December\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Project\Project\Project 10\Pulak18December\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Project\Project\Project 10\Pulak18December\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Project\Project\Project 10\Pulak18December\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Project\Project\Project 10\Pulak18December\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Project\Project\Project 10\Pulak18December\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Desktop\Pulak\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Desktop\Pulak\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Desktop\Pulak\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Desktop\Pulak\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Desktop\Pulak\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\Pulak\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Desktop\Pulak\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Project\Project 10\Pharma\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Project\Project 10\Pharma\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Project\Project 10\Pharma\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Project\Project 10\Pharma\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Project\Project 10\Pharma\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Project\Project 10\Pharma\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Project\Project 10\Pharma\SALESROLL_SLN\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\BitBucketProject\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\BitBucketProject\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\BitBucketProject\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\BitBucketProject\SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\BitBucketProject\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\BitBucketProject\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\BitBucketProject\SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\BitBucketProject (Work)\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\BitBucketProject (Work)\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\BitBucketProject (Work)\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\BitBucketProject (Work)\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\BitBucketProject (Work)\SMC_SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\BitBucketProject (Work)\SMC_SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\BitBucketProject (Work)\SMC_SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Desktop\TASK\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Desktop\TASK\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Desktop\TASK\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Desktop\TASK\SMC_SALESROLL_SLN\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Desktop\TASK\SMC_SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\TASK\SMC_SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Desktop\TASK\SMC_SALESROLL_SLN\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SalesRollNeonTeble\Library.DAL\bin\Debug\Library.DAL.dll
+D:\SalesRollNeonTeble\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\SalesRollNeonTeble\Library.DAL\bin\Debug\Library.DAO.dll
+D:\SalesRollNeonTeble\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\SalesRollNeonTeble\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\SalesRollNeonTeble\Library.DAL\obj\Debug\Library.DAL.dll
+D:\SalesRollNeonTeble\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SHUVO Projects\Git_Projects\SMC\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.dll
+D:\SHUVO Projects\Git_Projects\SMC\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\SHUVO Projects\Git_Projects\SMC\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.dll
+D:\SHUVO Projects\Git_Projects\SMC\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\SHUVO Projects\Git_Projects\SMC\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.dll
+D:\SHUVO Projects\Git_Projects\SMC\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SHUVO Projects\Git_Projects\SMC\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.csprojAssemblyReference.cache
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Converted SALESROLL\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\SMC-SalesRoll_Convertion\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Project\Click Pharma_Distribution\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\SHUVO Projects\Git_Projects\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csprojAssemblyReference.cache
+D:\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+D:\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Project\New CLick Pharma3-10-2021\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\CSTL_Project\SMC\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.dll
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.dll
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.dll
+F:\GIT Project\Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\Click_Pharma\Click_Pharma_SMC\user-authenticationMain\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Project\Ephuser-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\Projects\E-Pharma\user-authentication\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\Projects\E-Pharma\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\E-Pharma\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\E-Pharma\user-authentication\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\E-Pharma\9_feb_user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\3000000000user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\SMC\ePharma\user-authentication\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+F:\GIT Project\UNIWORLD\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects\Unicorn\user-authentication\user-authentication\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+E:\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+E:\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+E:\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\JEWEL\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\JEWEL\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\JEWEL\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+D:\JEWEL\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+D:\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+D:\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+D:\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+F:\GIT Project\UNIWORLD\New folder\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\Uniworld Healthcare\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\CSTL_Project\Uniworld Healthcare\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+E:\Projects In hand 2022\Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Tareq\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Tareq\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Tareq\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Tareq\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Tareq\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Tareq\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Tareq\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Tareq\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Tareq\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Tareq\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Tareq\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Nafcoo_Uniworld\uniworld\Library.DAL\obj\Debug\Library..61D7EBAF.Up2Date
+D:\Projects\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Projects\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.dll
+F:\02. GIT ERP\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\Jewel\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.dll
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.dll
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.dll
+D:\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.dll
+D:\Projects\UBL_Nafcoo\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\Projects\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+D:\Projects\UBL_Nafcoo\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\UBL_Nafcoo\Library.DAL\obj\Debug\Library..61D7EBAF.Up2Date
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAL.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAO.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.dll
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\All Git Projects\Nafcoo\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAL.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAO.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\System.Net.Http.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAO.pdb
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\bin\Debug\System.Net.Http.xml
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.dll
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.pdb
+D:\All Git Projects\Nafcoo\aug Nafcoo_Web\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\tools\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.dll
+F:\tools\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.pdb
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAL.dll
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAO.dll
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\tools\Nafcoo_Web\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\tools\Nafcoo_Web\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\Library.DAL.dll
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\Library.DAL.pdb
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\Library.DAO.dll
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\System.Web.Http.Common.dll
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\System.Net.Http.dll
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\Library.DAO.pdb
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\System.Web.Http.Common.xml
+F:\tools\Nafcoo_WebApps\Library.DAL\bin\Debug\System.Net.Http.xml
+F:\tools\Nafcoo_WebApps\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+F:\tools\Nafcoo_WebApps\Library.DAL\obj\Debug\Library.DAL.dll
+F:\tools\Nafcoo_WebApps\Library.DAL\obj\Debug\Library.DAL.pdb

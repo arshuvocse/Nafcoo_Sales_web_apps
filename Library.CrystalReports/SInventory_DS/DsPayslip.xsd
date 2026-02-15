@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsPayslip" targetNamespace="http://tempuri.org/DsPayslip.xsd" xmlns:mstns="http://tempuri.org/DsPayslip.xsd" xmlns="http://tempuri.org/DsPayslip.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsPayslip" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsPayslip" msprop:Generator_UserDSName="DsPayslip">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PaySlipImage" msprop:Generator_TableClassName="PaySlipImageDataTable" msprop:Generator_TableVarName="tablePaySlipImage" msprop:Generator_TablePropName="PaySlipImage" msprop:Generator_RowDeletingName="PaySlipImageRowDeleting" msprop:Generator_RowChangingName="PaySlipImageRowChanging" msprop:Generator_RowEvHandlerName="PaySlipImageRowChangeEventHandler" msprop:Generator_RowDeletedName="PaySlipImageRowDeleted" msprop:Generator_UserTableName="PaySlipImage" msprop:Generator_RowChangedName="PaySlipImageRowChanged" msprop:Generator_RowEvArgName="PaySlipImageRowChangeEvent" msprop:Generator_RowClassName="PaySlipImageRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CustPayDetailId" msprop:Generator_ColumnVarNameInTable="columnCustPayDetailId" msprop:Generator_ColumnPropNameInRow="CustPayDetailId" msprop:Generator_ColumnPropNameInTable="CustPayDetailIdColumn" msprop:Generator_UserColumnName="CustPayDetailId" type="xs:int" minOccurs="0" />
+              <xs:element name="PayImg" msprop:Generator_ColumnVarNameInTable="columnPayImg" msprop:Generator_ColumnPropNameInRow="PayImg" msprop:Generator_ColumnPropNameInTable="PayImgColumn" msprop:Generator_UserColumnName="PayImg" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

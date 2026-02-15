@@ -1,0 +1,92 @@
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\bin\Release\Library.DAO.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\bin\Release\Library.DAO.pdb
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\bin\Release\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\bin\Release\System.Net.Http.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\bin\Release\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\bin\Release\System.Net.Http.xml
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\obj\Release\Library.DAO.csproj.AssemblyReference.cache
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\obj\Release\Library.DAO.csproj.CoreCompileInputs.cache
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\obj\Release\Library.DAO.csproj.CopyComplete
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\obj\Release\Library.DAO.dll
+E:\CSTL_Project\SMC\Final_Click Pharma_Distribution\Library.DAO\obj\Release\Library.DAO.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAO\bin\Release\Library.DAO.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAO\bin\Release\Library.DAO.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAO\bin\Release\System.Web.Http.Common.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAO\bin\Release\System.Web.Http.Common.xml
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAO\obj\Release\Library.DAO.dll
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAO\obj\Release\Library.DAO.pdb
+E:\CSTL_Project\SMC\Click_Pharma_SMC\user-authentication\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\bin\Release\Library.DAO.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\bin\Release\Library.DAO.pdb
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.xml
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\obj\Release\Library.DAO.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\obj\Release\Library.DAO.pdb
+D:\JEWEL\uniworld\Library.DAO\bin\Release\Library.DAO.dll
+D:\JEWEL\uniworld\Library.DAO\bin\Release\Library.DAO.pdb
+D:\JEWEL\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.dll
+D:\JEWEL\uniworld\Library.DAO\bin\Release\System.Net.Http.dll
+D:\JEWEL\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.xml
+D:\JEWEL\uniworld\Library.DAO\bin\Release\System.Net.Http.xml
+D:\JEWEL\uniworld\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+D:\JEWEL\uniworld\Library.DAO\obj\Release\Library.DAO.dll
+D:\JEWEL\uniworld\Library.DAO\obj\Release\Library.DAO.pdb
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\bin\Release\System.Net.Http.dll
+F:\GIT Project\UNIWORLD\uniworld\Library.DAO\bin\Release\System.Net.Http.xml
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\bin\Release\Library.DAO.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\bin\Release\Library.DAO.pdb
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\bin\Release\System.Net.Http.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.xml
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\bin\Release\System.Net.Http.xml
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\obj\Release\Library.DAO.dll
+D:\JEWEL\New folder\Shuvo_Bhai_15_10_uniworld\uniworld\Library.DAO\obj\Release\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\bin\Release\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\bin\Release\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\bin\Release\System.Net.Http.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.xml
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\bin\Release\System.Net.Http.xml
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\obj\Release\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld\uniworld\Library.DAO\obj\Release\Library.DAO.pdb
+D:\Tareq\uniworld\Library.DAO\bin\Release\Library.DAO.dll
+D:\Tareq\uniworld\Library.DAO\bin\Release\Library.DAO.pdb
+D:\Tareq\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.dll
+D:\Tareq\uniworld\Library.DAO\bin\Release\System.Net.Http.dll
+D:\Tareq\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.xml
+D:\Tareq\uniworld\Library.DAO\bin\Release\System.Net.Http.xml
+D:\Tareq\uniworld\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+D:\Tareq\uniworld\Library.DAO\obj\Release\Library.DAO.dll
+D:\Tareq\uniworld\Library.DAO\obj\Release\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\Library.DAO.pdb
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Net.Http.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.xml
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Net.Http.xml
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\obj\Release\Library.DAO.dll
+F:\Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\obj\Release\Library.DAO.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\Library.DAO.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\Library.DAO.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Net.Http.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Web.Http.Common.xml
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\bin\Release\System.Net.Http.xml
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\obj\Release\Library.DAO.dll
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\obj\Release\Library.DAO.pdb
+F:\02. Projects In hand 2022\Uniworld_new\uniworld\Library.DAO\obj\Release\Library.DAO.csprojResolveAssemblyReference.cache
+D:\Projects\UBL_Nafcoo\Library.DAO\bin\Release\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\Library.DAO\bin\Release\Library.DAO.pdb
+D:\Projects\UBL_Nafcoo\Library.DAO\bin\Release\System.Web.Http.Common.dll
+D:\Projects\UBL_Nafcoo\Library.DAO\bin\Release\System.Net.Http.dll
+D:\Projects\UBL_Nafcoo\Library.DAO\bin\Release\System.Web.Http.Common.xml
+D:\Projects\UBL_Nafcoo\Library.DAO\bin\Release\System.Net.Http.xml
+D:\Projects\UBL_Nafcoo\Library.DAO\obj\Release\Library.DAO.csproj.AssemblyReference.cache
+D:\Projects\UBL_Nafcoo\Library.DAO\obj\Release\Library.DAO.csproj.CoreCompileInputs.cache
+D:\Projects\UBL_Nafcoo\Library.DAO\obj\Release\Library..D138ACFE.Up2Date
+D:\Projects\UBL_Nafcoo\Library.DAO\obj\Release\Library.DAO.dll
+D:\Projects\UBL_Nafcoo\Library.DAO\obj\Release\Library.DAO.pdb

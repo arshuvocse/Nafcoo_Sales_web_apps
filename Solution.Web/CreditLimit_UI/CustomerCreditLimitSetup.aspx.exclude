@@ -1,0 +1,225 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/NewMasterPage.master" AutoEventWireup="true" CodeFile="CustomerCreditLimitSetup.aspx.cs" Inherits="CreditLimit_UI_CustomerCreditLimitSetup" %>
+
+<%@ Register TagPrefix="asp" Namespace="AjaxControlToolkit" Assembly="AjaxControlToolkit, Version=3.0.20820.28364, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+
+
+
+    <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+        <ContentTemplate>
+
+            <div id="popDiv">
+            </div>
+
+            <div class="page-wrapper">
+                <div class="page-content">
+                    <!--breadcrumb-->
+                    <div class="page-breadcrumb d-none d-sm-flex align-items-center mb-3">
+                        <div class="breadcrumb-title pe-3"><i class="bx bx-customize"></i>Customer Credit Limit Setup </div>
+
+                        <div class="ms-auto">
+                            <div class="btn-group">
+
+
+                                <%--<a href="../MasterSetup_UI/DAList.aspx" class="btn btn-sm btn-sm btn-outline-info"><i class="fa fa-backward"></i>&nbsp;Back to List</a>--%>
+                            </div>
+                        </div>
+                    </div>
+                    <!--end breadcrumb-->
+                    <div class="row">
+                        <div class="col">
+
+                            <div class="card border-top border-0 border-4 border-success">
+                                <div class="card-body">
+                                    <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                                        <ContentTemplate>
+                                            <asp:UpdateProgress ID="UpdateProgress1" runat="server" ClientIDMode="Static" DisplayAfter="0" DynamicLayout="true">
+                                                <ProgressTemplate>
+
+                                                    <div class="divWaiting">
+                                                        <asp:Image ID="imgWait" CssClass="position-set" runat="server" ImageAlign="Middle" ImageUrl="../images/Spinner.gif" Width="180px" Height="180px" />
+                                                    </div>
+                                                </ProgressTemplate>
+                                            </asp:UpdateProgress>
+
+                                            <div class="row">
+
+                                                <div class="col-2">&nbsp;</div>
+                                                <div class="col-4">
+                                                    <div class="form-group row">
+
+                                                        <label for="mainName" class="col-sm-3 col-form-label">Company Name:</label>
+                                                        <div class="col-sm-5">
+                                                            <asp:DropDownList ID="companyDropDownList" runat="server" class="form-control form-control-sm ">
+                                                            </asp:DropDownList>
+                                                            <asp:HiddenField ID="customeridHiddenField" runat="server" />
+                                                            <asp:HiddenField ID="creditHiddenField" runat="server" />
+                                                        </div>
+                                                        <span class="text-sm-left text-c-red">*</span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-2">&nbsp;</div>
+
+                                            </div>
+
+                                            <div class="row">
+
+                                                <div class="col-2">&nbsp;</div>
+                                                <div class="col-4">
+                                                    <div class="form-group row" style="margin-top: 7px;">
+                                                        <label for="mainName" class="col-sm-3 col-form-label">Customer Name:  </label>
+
+                                                        <div class="col-sm-5">
+                                                            <asp:TextBox ID="customerTextBox" runat="server" class="form-control form-control-sm " AutoPostBack="True"
+                                                                OnTextChanged="customerTextBox_TextChanged">
+                                                            </asp:TextBox>
+
+                                                            <asp:AutoCompleteExtender ID="customerTextBox_AutoCompleteExtender" runat="server"
+                                                                DelimiterCharacters="" EnableCaching="true" Enabled="True" MinimumPrefixLength="1"
+                                                                CompletionSetCount="10" ServiceMethod="GetCustomernew" ServicePath="SInventoryWebService.asmx"
+                                                                TargetControlID="customerTextBox" UseContextKey="True" CompletionListCssClass="autocomplete_completionListElement"
+                                                                CompletionListItemCssClass="autocomplete_listItem" CompletionListHighlightedItemCssClass="autocomplete_highlightedListItem"
+                                                                ShowOnlyCurrentWordInCompletionListItem="true">
+                                                            </asp:AutoCompleteExtender>
+                                                            <span id="v-mainName" class="invalid-tooltip fade hide" data-delay="2000"></span>
+
+
+                                                        </div>
+                                                        <span class="text-sm-left text-c-red">*</span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-2">&nbsp;</div>
+
+                                            </div>
+
+
+                                            <div class="row">
+
+                                                <div class="col-2">&nbsp;</div>
+                                                <div class="col-4">
+                                                    <div class="form-group row" style="margin-top: 7px;">
+                                                        <label for="mainName" class="col-sm-3 col-form-label">Limit Amount:  </label>
+
+                                                        <div class="col-sm-5">
+
+                                                            <asp:TextBox ID="limitAmntTextBox" runat="server" CssClass="TextBox"></asp:TextBox>
+
+
+
+                                                        </div>
+                                                        <span class="text-sm-left text-c-red">*</span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-2">&nbsp;</div>
+
+                                            </div>
+
+
+                                            <div class="row">
+
+                                                <div class="col-2">&nbsp;</div>
+                                                <div class="col-4">
+                                                    <div class="form-group row" style="margin-top: 7px;">
+                                                        <label for="mainName" class="col-sm-3 col-form-label">Limit (Days):  </label>
+
+                                                        <div class="col-sm-5">
+
+                                                            <asp:TextBox ID="limitDaysTextBox" runat="server" CssClass="TextBox"></asp:TextBox>
+                                                            <span id="v-mainName" class="invalid-tooltip fade hide" data-delay="2000"></span>
+
+
+                                                        </div>
+                                                        <span class="text-sm-left text-c-red">*</span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-2">&nbsp;</div>
+
+                                            </div>
+
+
+
+                                            <div class="row">
+
+                                                <div class="col-2">&nbsp;</div>
+                                                <div class="col-4">
+                                                    <div class="form-group row" style="margin-top: 7px;" runat="server" visible="False">
+                                                        <label for="mainName" class="col-sm-3 col-form-label">From date  </label>
+
+                                                        <div class="col-sm-5">
+                                                            <asp:TextBox ID="fromDateTextBox" runat="server" CssClass="TextBoxCalander"></asp:TextBox>
+                                                            <asp:TextBox ID="perdayLimitTextBox" runat="server" CssClass="TextBox"></asp:TextBox>
+                                                            <asp:ImageButton runat="server" AlternateText="Click to show calendar" ImageUrl="~/Images/Calendar_scheduleHS.png"
+                                                                TabIndex="4" ID="imgDate"></asp:ImageButton>
+                                                            <asp:CalendarExtender ID="Date" runat="server" Format="dd-MMM-yyyy" TargetControlID="fromDateTextBox"
+                                                                PopupButtonID="imgDate">
+                                                            </asp:CalendarExtender>
+
+                                                        </div>
+                                                        <span class="text-sm-left text-c-red">*</span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-2">&nbsp;</div>
+
+                                            </div>
+
+
+                                            <div class="row">
+
+                                                <div class="col-2">&nbsp;</div>
+                                                <div class="col-4">
+                                                    <div class="form-group row" style="margin-top: 7px;" runat="server" visible="False">
+                                                        <label for="mainName" class="col-sm-3 col-form-label">To date  </label>
+
+                                                        <div class="col-sm-5">
+                                                            <asp:TextBox ID="toDateTextBox" runat="server" CssClass="TextBoxCalander"></asp:TextBox>
+                                                            <asp:ImageButton runat="server" AlternateText="Click to show calendar" ImageUrl="~/Images/Calendar_scheduleHS.png"
+                                                                TabIndex="4" ID="ImageButton1"></asp:ImageButton>
+                                                            <asp:CalendarExtender ID="CalendarExtender1" runat="server" Format="dd-MMM-yyyy"
+                                                                TargetControlID="toDateTextBox" PopupButtonID="ImageButton1">
+                                                            </asp:CalendarExtender>
+
+                                                        </div>
+                                                        <span class="text-sm-left text-c-red">*</span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-2">&nbsp;</div>
+
+                                            </div>
+
+
+                                            <div class="row">
+                                                <div class="col-2">&nbsp;</div>
+                                                <div class="col-8">
+
+                                                    <div class="form-group row">
+                                                        <label for="exampleInputUsername2" class="col-sm-3 col-form-label"></label>
+                                                        <div class="col-sm-8">
+                                                            <button type="button" id="Button1" class="btn btnMyDesignSearch   btn-sm" onclick="Save()">
+                                                                <i class="fa fa-check"></i>Submit
+                                                            </button>
+                                                            <button type="button" class="btn btnMyDesignReset   btn-sm" onclick="ResetLink()"><i class="fa fa-retweet" aria-hidden="true"></i>&nbsp; Reset </button>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                                <div class="col-2">&nbsp;</div>
+                                            </div>
+
+                                        </ContentTemplate>
+                                    </asp:UpdatePanel>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </ContentTemplate>
+    </asp:UpdatePanel>
+
+
+</asp:Content>
+

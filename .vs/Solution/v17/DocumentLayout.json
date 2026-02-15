@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\tools\\Nafcoo_WebApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|f:\\tools\\nafcoo_webapps\\solution.web\\tourplanapps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|solutionrelative:solution.web\\tourplanapps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplanapps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|solutionrelative:solution.web\\tourplanapps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplanapps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|solutionrelative:solution.web\\tourplanapps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplanapprovallistforapp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|solutionrelative:solution.web\\tourplanapprovallistforapp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplandetailviewforapp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|solutionrelative:solution.web\\tourplandetailviewforapp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\attendanceapprovallistapps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_WebApps\\Solution.Web|solutionrelative:solution.web\\attendanceapprovallistapps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_Web\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplanapprovallistforapp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|F:\\tools\\Nafcoo_Web\\Solution.Web|solutionrelative:solution.web\\tourplanapprovallistforapp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplanapprovallistforapp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|solutionrelative:solution.web\\tourplanapprovallistforapp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplandetailviewforapp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|solutionrelative:solution.web\\tourplandetailviewforapp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|F:\\tools\\Nafcoo_WebApps\\solution.web\\tourplanapps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5121C7E-F331-451C-9DF4-49BE00D04AFB}|D:\\All Git Projects\\Nafcoo\\aug Nafcoo_Web\\Nafcoo_Web\\Solution.Web|solutionrelative:solution.web\\tourplanapps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TourPlanApps.aspx",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanApps.aspx",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx",
+              "RelativeToolTip": "Solution.Web\\TourPlanApps.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-13T12:34:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TourPlanApps.aspx.cs",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx.cs",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanApps.aspx.cs",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx.cs",
+              "RelativeToolTip": "Solution.Web\\TourPlanApps.aspx.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAvwI4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:34:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceApprovalListApps.aspx.cs",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\AttendanceApprovalListApps.aspx.cs",
+              "RelativeDocumentMoniker": "Solution.Web\\AttendanceApprovalListApps.aspx.cs",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\AttendanceApprovalListApps.aspx.cs",
+              "RelativeToolTip": "Solution.Web\\AttendanceApprovalListApps.aspx.cs",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAqwIUCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:29:50.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TourPlanApprovalListForApp.aspx.cs",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApprovalListForApp.aspx.cs",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanApprovalListForApp.aspx.cs",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApprovalListForApp.aspx.cs",
+              "RelativeToolTip": "Solution.Web\\TourPlanApprovalListForApp.aspx.cs",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAmwKQBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:55:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TourPlanDetailViewForApp.aspx.cs",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanDetailViewForApp.aspx.cs",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanDetailViewForApp.aspx.cs",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanDetailViewForApp.aspx.cs",
+              "RelativeToolTip": "Solution.Web\\TourPlanDetailViewForApp.aspx.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAqwOAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:48:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourPlanApprovalListForApp.aspx",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "RelativeToolTip": "Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-20T13:43:24.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TourPlanApps.aspx.cs",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx.cs",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanApps.aspx.cs",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx.cs",
+              "RelativeToolTip": "Solution.Web\\TourPlanApps.aspx.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAvwJkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:54:06.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TourPlanDetailViewForApp.aspx",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanDetailViewForApp.aspx",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanDetailViewForApp.aspx",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanDetailViewForApp.aspx",
+              "RelativeToolTip": "Solution.Web\\TourPlanDetailViewForApp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-13T09:43:49.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TourPlanApprovalListForApp.aspx",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "RelativeToolTip": "Solution.Web\\TourPlanApprovalListForApp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-13T09:41:43.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TourPlanApps.aspx",
+              "DocumentMoniker": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx",
+              "RelativeDocumentMoniker": "Solution.Web\\TourPlanApps.aspx",
+              "ToolTip": "F:\\tools\\Nafcoo_WebApps\\Solution.Web\\TourPlanApps.aspx",
+              "RelativeToolTip": "Solution.Web\\TourPlanApps.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-30T06:43:14.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
