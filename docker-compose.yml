@@ -1,16 +1,14 @@
 version: '3.8'
 
 services:
-  # ASP.NET Web Application Service
+  # ASP.NET Web Application Service (IIS Container)
   nafcoo-web:
     build:
       context: .
-      dockerfile: Dockerfile.mono
+      dockerfile: Dockerfile
     container_name: nafcoo_sales_web
     ports:
-      - "8080:8080"
-    environment:
-      - ASPNET_ENV=Development
+      - "8080:80"
     restart: always
 
   # SQL Server Database Service
