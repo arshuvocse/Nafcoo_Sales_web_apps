@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  # ASP.NET Web Application Service
+  nafcoo-web:
+    build:
+      context: .
+      dockerfile: Dockerfile.mono
+    container_name: nafcoo_sales_web
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNET_ENV=Development
+    restart: always
+
+  # SQL Server Database Service
+  sql-server:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: nafcoo_sql_db
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=sa1234Password!
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+    restart: always

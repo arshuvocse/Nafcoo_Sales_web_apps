@@ -1,0 +1,15 @@
+# Mono / XSP4 Dockerfile for running ASP.NET .NET Framework Web Forms on Linux Containers
+FROM mono:latest
+
+# Install Mono XSP4 web server
+RUN apt-get update && apt-get install -y mono-xsp4 && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Copy application code
+COPY . /app
+
+EXPOSE 8080
+
+# Run XSP4 server serving Solution.Web
+CMD ["xsp4", "--port=8080", "--root=/app/Solution.Web", "--nonstop"]
