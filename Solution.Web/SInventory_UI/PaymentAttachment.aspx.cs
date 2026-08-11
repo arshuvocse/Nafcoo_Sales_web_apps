@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -62,7 +62,7 @@ public partial class SInventory_UI_PaymentAttachment : System.Web.UI.Page
 
                 using (SqlConnection sqlConnection =
                     new SqlConnection(
-                        @"Data Source=23.106.122.61\SQLSERVER2014;Initial Catalog=SalesDisDB_UniWorld_DB;Integrated Security=false; User Id=sa; password=sa1234"))
+                        @"Data Source=NASA-PC\MSSQLSERVER2019;Initial Catalog=SalesDisDB_UniWorld_DB;Integrated Security=false; User Id=sa; password=sa1234"))
                 {
                     using (SqlCommand cmd = new SqlCommand())
                     {
